@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283333540226",
+    "project_id": "seizhiptv",
+    "storage_bucket": "seizhiptv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283333540226:android:b53bf6a9900371ddbcb79b",
+        "android_client_info": {
+          "package_name": "com.example.seizhiptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283333540226-u8bctvuvugmg2gqq9fk03lu2lko7qcou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seizhiptv",
+            "certificate_hash": "31647d5b472f60b05971022e42d4e1b4bc76b42a"
+          }
+        },
+        {
+          "client_id": "283333540226-olhili6lmfbs7d8bek9ascvnnheo3mbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxdEtlxdr5APAQR42od1wOqwXIJ2PnFzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283333540226-olhili6lmfbs7d8bek9ascvnnheo3mbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
