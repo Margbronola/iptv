@@ -305,12 +305,12 @@ class _ProfilePageState extends State<ProfilePage> {
               SafeArea(
                 child: MaterialButton(
                   onPressed: () async {
-                    // setState(() {
-                    //   isLoading = true;
-                    //   label = "Logging out";
-                    // });
-                    // await _cacher.clearData();
-                    // await Navigator.pushReplacementNamed(context, "/auth");
+                    setState(() {
+                      isLoading = true;
+                      label = "Logging out";
+                    });
+                    await _cacher.clearData();
+                    await Navigator.pushReplacementNamed(context, "/auth");
                   },
                   padding: const EdgeInsets.symmetric(
                     horizontal: 20,

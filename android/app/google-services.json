@@ -1,42 +1,89 @@
 {
   "project_info": {
-    "project_number": "283333540226",
-    "project_id": "seizhiptv",
-    "storage_bucket": "seizhiptv.firebasestorage.app"
+    "project_number": "238590285701",
+    "project_id": "seizhtv",
+    "storage_bucket": "seizhtv.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283333540226:android:b53bf6a9900371ddbcb79b",
+        "mobilesdk_app_id": "1:238590285701:android:20118df3f07df8486fd6ec",
         "android_client_info": {
-          "package_name": "com.example.seizhiptv"
+          "package_name": "com.studioseizh.seizhtv"
         }
       },
       "oauth_client": [
         {
-          "client_id": "283333540226-u8bctvuvugmg2gqq9fk03lu2lko7qcou.apps.googleusercontent.com",
+          "client_id": "238590285701-3h3ur9hilhge4u162cdjem05cdoip7r0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.seizhiptv",
+            "package_name": "com.studioseizh.seizhtv",
+            "certificate_hash": "38caf502b49f6b16014bdc7576a4cf07cb6da35a"
+          }
+        },
+        {
+          "client_id": "238590285701-6hpa9club692jsbsme2qm9dqiu9qc7ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studioseizh.seizhtv",
+            "certificate_hash": "568dd9f6352562a7b019949540834ca67e650ae0"
+          }
+        },
+        {
+          "client_id": "238590285701-bamdch8kl6g2caqbuij6pvs0uol53m4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studioseizh.seizhtv",
             "certificate_hash": "31647d5b472f60b05971022e42d4e1b4bc76b42a"
           }
         },
         {
-          "client_id": "283333540226-olhili6lmfbs7d8bek9ascvnnheo3mbq.apps.googleusercontent.com",
+          "client_id": "238590285701-e748safg142cagqj094e5ae7sh46juh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studioseizh.seizhtv",
+            "certificate_hash": "720760fb51efee9760bb9650e01004b44c1e8cc7"
+          }
+        },
+        {
+          "client_id": "238590285701-o40t9aq05gm2jt6ebqj9qut96lopv6r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studioseizh.seizhtv",
+            "certificate_hash": "be8f5360ae13763899689accdf838089724b77b7"
+          }
+        },
+        {
+          "client_id": "238590285701-opcrtg8j7tb24gm2jc9bj3349haojg92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studioseizh.seizhtv",
+            "certificate_hash": "b93441cf777e73b5551f84c8be366e594c3d521a"
+          }
+        },
+        {
+          "client_id": "238590285701-09c6j3cd853b57i30e0bsf3de8e5fas4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBxdEtlxdr5APAQR42od1wOqwXIJ2PnFzY"
+          "current_key": "AIzaSyASu2AfX5k2bDKlfFvVcRHpz2hb8yI2_9o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "283333540226-olhili6lmfbs7d8bek9ascvnnheo3mbq.apps.googleusercontent.com",
+              "client_id": "238590285701-09c6j3cd853b57i30e0bsf3de8e5fas4.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "238590285701-0p6l7m09gfmt98h0lnmcbgblcqaklo0h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.studioseizh.seizhtv"
+              }
             }
           ]
         }
